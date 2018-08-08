@@ -8,7 +8,7 @@ This code is mainly based on GUI operation, by imitating mouse's click and move 
 This code is very easy to read, you can figure out what it has achieved just by scanning quickly, mainly including check turn, pass turn, play minions, minions attack, use hero power, taunt policy, judge win or lose. Yes, it doesn't have many functions, but i think those functions are enough for a simple bot.
 
 # About the decks which can used by this bot
-Now that we know all the functions this bot has achieved, you can see that this bot just supports minion and those cards witout choosing a target. Many spells, finding and battlecry are forbidden. So those hunters like following are the best choices :)
+Now that we know all the functions this bot has achieved, you can see that this bot just supports minion and those cards witout choosing a target and it will only attack enemy hero except there is an enemy taunt minion. Many spells, finding and battlecry are forbidden. So those hunters like following are the best choices :)
 
 ![turn seven hunter](https://github.com/Daisy-Zhang/HearthStone_Bot/blob/master/turn_seven_hunter.png)
 
