@@ -14,4 +14,4 @@ Now that we know all the functions this bot has achieved, you can see that this 
 
 
 
-the first time to create a repository, the pleasure is mine if you point out some errors or bugs :)
+the first time to create a repository, the pleasure is mine if you can just point out some errors or bugs :)
