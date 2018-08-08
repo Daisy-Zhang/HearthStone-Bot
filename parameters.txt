@@ -1,0 +1,42 @@
+position parameters：
+720 659  own hero
+1201 397 turn button
+856 655 own hero power
+714 168 enemy hero
+722 712 cards in the beginning
+247 225 3 end turn's RGB
+1216 421 the point usd to check if it is my turn
+1096 721 start to search opponent
+698 832 the center of your hand-cards
+486 858 the leftest crads's position
+917 866 the rightest cards's position
+0 191 0 255 green end turn's RGB
+(970, 550）point check the taunt：
+	with taunt：55 52 48 255
+	can't attack：232 220 202 255
+	normal：169 123 91 255
+
+
+own minions' positions：
+one minion：
+（721 478）
+enemy:
+（724 355）
+
+two minions：
+（663 507） （776 491）
+
+three minions：
+（610 480） （724 488） （836 495）
+
+four minions：
+（546 479） （659 482） （776 493） （885 488）
+
+five minions：
+（490 476） （601 486） （726 488） （834 490） （945 486）
+
+six minions：
+（437 474） （547 499） （665 493） （780 493） （893 487） （1006 485）
+
+seven minions：
+（363 505） （486 479） （605 495） （725 489） （838 496） （951 489） （1058 489）
